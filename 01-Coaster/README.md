@@ -1,4 +1,4 @@
-# Project 01: Precision Desk Coaster
+# Project 01: Coaster
 
 A 3D model of a premium desk coaster, reverse-engineered using precise millimeter measurements from a physical object over a **1.5-hour design session**.
 

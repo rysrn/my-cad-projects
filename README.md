@@ -4,7 +4,7 @@ Welcome to my 3D design, robotics, and Aerospace portfolio. This repository host
 
 ## 🗂️ Project Directory
 
-* **[01: Precision Desk Coaster](./01-Coaster)** 
+* **[01: Coaster](./01-Coaster)** 
   * A dual-wood desk coaster with flush rubber footing, reverse-engineered down to the millimeter from a real-world object.
 
 ---
